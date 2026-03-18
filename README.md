@@ -1,4 +1,4 @@
-# 💫 About Me:
+[# 💫 About Me:
 Software Engineer with 3+ years of industry experience, currently pursuing an MSc in Data Science & AI at the University of Liverpool. I build backend and full-stack applications with Java and also work on Python-based AI/ML and data-driven systems.<br><br>About Me<br><br>🔭 I’m currently working on Java/Spring Boot backend systems, full-stack applications, and Python-based AI/ML projects<br><br>👯 I’m looking to collaborate on Java, Spring Boot, React, Python, machine learning, data science, and applied AI projects<br><br>🤝 I’m looking for help with system design, cloud deployment, MLOps, scalable backend architecture, and production-grade ML systems<br><br>🌱 I’m currently learning advanced system design, distributed systems, cloud engineering, machine learning, and applied AI<br><br>💬 Ask me about Java, Spring Boot, REST APIs, PostgreSQL, React, Python, data analysis, clustering, machine learning, and AI projects<br><br>⚡ Fun fact: I started in Mechanical Engineering and transitioned into software engineering, data science, and AI
 
 
@@ -13,3 +13,4 @@ Software Engineer with 3+ years of industry experience, currently pursuing an MS
 [![](https://visitcount.itsvg.in/api?id=Nakka-Johnson&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+](https://github.com/Nakka-Johnson/Nakka-Johnson/blob/main/README.md?plain=1)
